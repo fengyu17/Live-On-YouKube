@@ -1,0 +1,77 @@
+{
+  "result": 200,
+  "discrible": "Successful!",
+  "time": "2009-10-23 09:03:13",
+  "content": [
+    {
+      "ChannelID": "01",
+      "ChannelName": "CCTV-1",
+      "ChannelNum": "01",
+      "ChannelSC": "01",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv1?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8ffLQAL8DIvwg8uYZ96RjeYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "02",
+      "ChannelName": "CCTV-2",
+      "ChannelNum": "02",
+      "ChannelSC": "02",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv2?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "03",
+      "ChannelName": "CCTV-3",
+      "ChannelNum": "03",
+      "ChannelSC": "03",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv3?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "04",
+      "ChannelName": "CCTV-4",
+      "ChannelNum": "04",
+      "ChannelSC": "04",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv4?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "05",
+      "ChannelName": "CCTV-5",
+      "ChannelNum": "05",
+      "ChannelSC": "05",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv5?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "06",
+      "ChannelName": "CCTV-6",
+      "ChannelNum": "06",
+      "ChannelSC": "06",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv6?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "07",
+      "ChannelName": "CCTV-7",
+      "ChannelNum": "07",
+      "ChannelSC": "07",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv7?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "08",
+      "ChannelName": "CCTV-8",
+      "ChannelNum": "08",
+      "ChannelSC": "08",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv8?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "09",
+      "ChannelName": "CCTV-10",
+      "ChannelNum": "09",
+      "ChannelSC": "09",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv10?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    },
+    {
+      "ChannelID": "10",
+      "ChannelName": "CCTV-13",
+      "ChannelNum": "10",
+      "ChannelSC": "10",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cctv13?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Uq%2BVKv1hOk8liSTwEujTnYaIdbw8tJdtCg1gWvHS6Os"
+    }
+  ]
+}

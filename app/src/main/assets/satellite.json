@@ -1,0 +1,147 @@
+{
+  "result": 200,
+  "discrible": "Successful!",
+  "time": "2009-10-23 09:03:13",
+  "content": [
+    {
+      "ChannelID": "01",
+      "ChannelName": "北京卫视",
+      "ChannelNum": "01",
+      "ChannelSC": "01",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/bjws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8VMax6hJCGYApm9BMxZYcWV27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "02",
+      "ChannelName": "天津卫视",
+      "ChannelNum": "02",
+      "ChannelSC": "02",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/tjws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuRYfJC3cBvE%2FsTZDXE%2FR2hh27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "03",
+      "ChannelName": "浙江卫视",
+      "ChannelNum": "03",
+      "ChannelSC": "03",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/zjws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuRsnl%2BlguweRFRBML%2BPdh9R27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "04",
+      "ChannelName": "湖北卫视",
+      "ChannelNum": "04",
+      "ChannelSC": "04",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/hubeiws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8cMQLLpJS3JQTNEXy4r5Fs6GSzl3i%2BCAUvGej2L3d%2Bh9"
+    },
+    {
+      "ChannelID": "05",
+      "ChannelName": "江苏卫视",
+      "ChannelNum": "05",
+      "ChannelSC": "05",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/jsws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuSiQtnu9hojdwWKo0sPd%2BXp27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "06",
+      "ChannelName": "山东卫视",
+      "ChannelNum": "06",
+      "ChannelSC": "06",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/sdws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuRkgeC4E0P%2FpWx7IGqCADzN27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "07",
+      "ChannelName": "东方卫视",
+      "ChannelNum": "07",
+      "ChannelSC": "07",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/dfws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuR2ckrPMX4pDUngwdfLwNWN27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "08",
+      "ChannelName": "广东卫视",
+      "ChannelNum": "08",
+      "ChannelSC": "08",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/gdws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8YMFf2ffN3AcaKV4tdA7127NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "09",
+      "ChannelName": "安徽卫视",
+      "ChannelNum": "09",
+      "ChannelSC": "09",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/ahws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuXc7LMYwLG0gLfDZdJoN88F27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "10",
+      "ChannelName": "辽宁卫视",
+      "ChannelNum": "10",
+      "ChannelSC": "10",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/lnws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuTbS4JXeoM%2FGaJjwxQWpfrF27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "11",
+      "ChannelName": "河南卫视",
+      "ChannelNum": "11",
+      "ChannelSC": "11",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/henanws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Zq14O%2B4imxPVWsi5zQudJUvvWdWGQBzeLTwcxi0hP"
+    },
+    {
+      "ChannelID": "12",
+      "ChannelName": "陕西卫视",
+      "ChannelNum": "12",
+      "ChannelSC": "12",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/shannxiws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8WQlp36JAr%2BkqBE07EqLrEWw8ZMEjfLhsjEzI1yVdYnn"
+    },
+    {
+      "ChannelID": "13",
+      "ChannelName": "河北卫视",
+      "ChannelNum": "13",
+      "ChannelSC": "13",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/hebeiws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8bsW7rYRxR%2Fj1gAvW254O%2BIPpKxCvUX7xLyHnjdZD8qP"
+    },
+    {
+      "ChannelID": "14",
+      "ChannelName": "四川卫视",
+      "ChannelNum": "14",
+      "ChannelSC": "14",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/scws?AuthInfo=wY%2B6T0Gxum751DxbnqdAuXQfbCLJwtqM2J%2FE1fEo2F527NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "15",
+      "ChannelName": "重庆卫视",
+      "ChannelNum": "15",
+      "ChannelSC": "15",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/cqws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8eBzyiO2ShlVQW0PSJh%2Fqtp27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "16",
+      "ChannelName": "山西卫视",
+      "ChannelNum": "16",
+      "ChannelSC": "16",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/shanxiws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Smr7U9MTka%2FACNhZI3cC5suDwz0LSq0YqVcNJmMvC10"
+    },
+    {
+      "ChannelID": "17",
+      "ChannelName": "吉林卫视",
+      "ChannelNum": "17",
+      "ChannelSC": "17",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/jlws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8U4C%2BdLOVYunav11yrYVsdR27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "18",
+      "ChannelName": "江西卫视",
+      "ChannelNum": "18",
+      "ChannelSC": "18",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/jxws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8XMJafVEQXYaILJnxDpHhvN27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "19",
+      "ChannelName": "东南卫视",
+      "ChannelNum": "19",
+      "ChannelSC": "19",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/dnws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8WGg%2BqZsXvlWeP4df5MXqjx27NTWtJ5K67jXi9uid6Gk"
+    },
+    {
+      "ChannelID": "20",
+      "ChannelName": "辽宁卫视",
+      "ChannelNum": "20",
+      "ChannelSC": "20",
+      "Mediaaddr": "http://121.31.20.137:8112/itv/gxws?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8Z4oUb3zQI8%2ByLN76%2Fcwp%2Fl27NTWtJ5K67jXi9uid6Gk"
+    }
+  ]
+}

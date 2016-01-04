@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Live on YouKube</string>
+    <string name="app_live">直播乐</string>
+    <string name="app_vod">点播乐</string>
+    <string name="app_favorites">我的收藏</string>
+    <string name="app_general">通用</string>
+    <string name="app_help">帮助</string>
+    <string name="app_about">关于</string>
+    <string name="app_search">搜索</string>
+    <string name="app_settings">设置</string>
+    <!--  TODO: Navigation_drawer_open  -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- Program -->
+    <string name="programinfo_name">名称：</string>
+    <string name="programinfo_time">上映：</string>
+    <string name="programinfo_rating">评分：</string>
+    <string name="programinfo_category">类型：</string>
+    <string name="programinfo_area">地区：</string>
+    <string name="programinfo_director">导演：</string>
+    <string name="programinfo_actor">主演：</string>
+    <string name="programinfo_intro">简介</string>
+</resources>

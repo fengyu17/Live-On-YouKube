@@ -1,0 +1,41 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 23
+    }
+
+    packagingOptions {
+        exclude 'META-INF/NOTICE.txt' // will not include NOTICE file
+        exclude 'META-INF/LICENSE.txt' // will not include LICENSE file
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.0.1'
+    compile files('libs/baseproject.jar')
+    compile files('libs/fastjson-1.2.7.jar')
+    compile files('libs/mAppTracker.jar')
+    compile files('libs/mvvtracker.jar')
+    compile files('libs/playerBase.jar')
+    compile files('libs/tracking.jar')
+    compile files('libs/core.jar')
+    compile files('libs/comscore.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/httpmime-4.2.5.jar')
+    compile files('libs/httpclient-4.2.5.jar')
+    compile files('libs/httpcore-4.2.4.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/YoukuAnalytics.jar')
+}

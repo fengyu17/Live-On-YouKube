@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 50,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 50,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 50,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 49,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 49,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 54,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 54,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 50,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 50,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 57,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endColumn": 57,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 51,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 51,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 423,
+                    "endColumn": 53,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 53,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 49,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 49,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 57,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 57,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 52,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endColumn": 52,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 53,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 53,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 62,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1572,
+                        "endColumn": 62,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 60,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1812,
+                        "endColumn": 60,
+                        "endOffset": 1868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 58,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1873,
+                        "endColumn": 58,
+                        "endOffset": 1927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 58,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 58,
+                        "endOffset": 1807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 58,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 58,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 58,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1635,
+                        "endColumn": 58,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 66,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 66,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 62,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1423,
+                        "endColumn": 62,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 57,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 57,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 52,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 52,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 60,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 60,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 66,
+                    "endOffset": 1416
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 66,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1421,
+                    "endColumn": 62,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1304,
+                        "endColumn": 62,
+                        "endOffset": 1362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endColumn": 55,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1367,
+                        "endColumn": 55,
+                        "endOffset": 1418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 57,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 57,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 60,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 60,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 54,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 54,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 66,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 66,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 53,
+                    "endOffset": 1830
+                },
+                "from": {
+                    "file": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endColumn": 53,
+                        "endOffset": 130
+                    }
+                }
+            }
+        ]
+    }
+]

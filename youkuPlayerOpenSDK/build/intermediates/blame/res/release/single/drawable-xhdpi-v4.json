@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\plugin_ad_gosmall_youku.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\plugin_ad_gosmall_youku.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\plugin_ad_gofull_youku.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\plugin_ad_gofull_youku.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tudou_details_big_play_icon.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\tudou_details_big_play_icon.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\plugin_ad_more_youku.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\plugin_ad_more_youku.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\plugin_ad_gofull_tudou.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\plugin_ad_gofull_tudou.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\plugin_ad_gosmall_tudou.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-xhdpi\\plugin_ad_gosmall_tudou.png"
+    }
+]

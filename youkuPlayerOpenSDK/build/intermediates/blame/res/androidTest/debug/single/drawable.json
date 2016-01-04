@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\yp_progressbarstyle.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\yp_progressbarstyle.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\webview_progressbar_style.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\webview_progressbar_style.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_homepage_title_textcolor.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_homepage_title_textcolor.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\yp_progress_holo_light.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\yp_progress_holo_light.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\yp_progressthumbstyle.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\yp_progressthumbstyle.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_activity_login_button_click.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_activity_login_button_click.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\other_person_gridview_item_selector.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\other_person_gridview_item_selector.xml"
+    }
+]

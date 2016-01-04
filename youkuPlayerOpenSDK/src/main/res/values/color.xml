@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="transparent">#00000000</color>
+
+    <!-- 播放器控制 -->
+    <color name="player_controller_background">#bf000000</color>
+    <color name="player_controller_background_half_alpha">#7f000000</color>
+
+    <!-- 通用默认颜色 -->
+    <color name="text_color_blue">#2bb5fc</color>
+    <color name="text_color_blue_1">#29abe2</color>
+
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_white_d">#ccffffff</color>
+
+    <color name="text_color_black">#000000</color>
+
+    <color name="text_color_gray_9">#333333</color>
+    <color name="text_color_gray_7">#666666</color>
+    <color name="text_color_gray_5">#8c8c8c</color>
+    <color name="text_color_gray_3">#999999</color>
+    <color name="text_color_gray_2">#909fa8</color>
+    <color name="text_color_gray_1">#e2e2e2</color>
+
+    <color name="text_color_red_1">#ff5a5a</color>
+    <!-- youku dialog cancel button -->
+    <color name="yp_youku_dialog_cancel_normal">#fffafafa</color>
+    <color name="yp_youku_dialog_cancel_pressed">#ffe7e7e7</color>
+    <color name="yp_youku_dialog_ok_normal">#1500baff</color>
+    <color name="yp_youku_dialog_ok_pressed">#33049dd5</color>
+
+    <!-- tudou dialog color -->
+    <color name="tudou_dialog_title">#3c3c3c</color>
+    <color name="tudou_dialog_sub_title">#898989</color>
+    <color name="tudou_dialog_line">#d9d9d9</color>
+    <color name="tudou_dialog_button">#ff6600</color>
+
+    <!-- youku ad icon background color -->
+    <color name="yp_ad_background_color_youku">#cc292929</color>
+
+    <drawable name="tab_indicator_normal">#ffffffff</drawable>
+    <drawable name="tab_indicator_pressed_color">#fff0f0f0</drawable>
+
+    <color name="app_background">#e2e2e2</color>
+    <color name="player_gray">#ff888888</color>
+
+    <color name="translucent_background">#00000000</color>
+
+    <!--Login-->
+    <color name="dialog_login_activity_input_text_color">#dedede</color>
+    <color name="login_regist_default_light_bule">#22b8ff</color>
+    <color name="login_regist_default_text_input">#dfdfdf</color>
+    <color name="login_regist_default_pressed_color">#0296dc</color>
+    <color name="login_n_register_line_correct">#1b96d6</color>
+    <color name="login_n_register_line_wrong">#e36767</color>
+    <!-- 个人中心 设置 -->
+    <color name="mycenter_setting_divider">#e9e9e9</color>
+    <color name="mycenter_fragment_bg">#d7d8d8</color>
+    <color name="mycenter_fragment_griditem_black_cover">#66000000</color>
+    <color name="mycenter_upload_video_default_image_bg">#f5f5f5</color>
+    <color name="mycenter_upload_video_upload_btn_bg">#ebebeb</color>
+    <color name="mycenter_upload_video_upload_btn_pressed">#6bb9dd</color>
+    <color name="mycenter_upload_video_dialog_line_top">#24000000</color>
+    <color name="mycenter_upload_video_dialog_line_bottom">#24ffffff</color>
+    <color name="mycenter_upload_video_dialog_bg">#ba000000</color>
+    <color name="channel_bottom_line_color">#ffc9c9c9</color>
+    <color name="popup_menu_text">#FF4E4E4E</color>
+    <color name="black_gray">#888888</color>
+    <color name="result_view">#99000000</color>
+    <color name="share_chooser_listview_divider_color">#494949</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="viewfinder_mask">#99000000</color>
+    <color name="viewfinder_frame">#00000000</color>
+</resources>

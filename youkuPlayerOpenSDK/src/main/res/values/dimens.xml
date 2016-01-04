@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- play area -->
+
+    <dimen name="detail_play_title_height">30dp</dimen>
+    <dimen name="detail_play_title_margin_left_right">4.2dp</dimen>
+
+    <!-- 详情页播放器底部控制区 -->
+    <dimen name="detail_play_content_padding_top">6dp</dimen>
+    <dimen name="detail_play_content_padding_bottom">6dp</dimen>
+    <dimen name="detail_play_full_margin_right">10dp</dimen>
+    <dimen name="detail_play_progress_margin_left">8dp</dimen>
+    <dimen name="detail_play_progress_margin_right">8dp</dimen>
+    <!-- pop up middle -->
+
+
+    <!-- 全屏播放 剧集选择 -->
+    <dimen name="fullscreen_player_episode_item_text_size">10sp</dimen>
+    <dimen name="fullscreen_player_episode_item_small_text_size">8sp</dimen>
+    <dimen name="dialog_title_height">32dp</dimen>
+    <dimen name="dialog_height">246dp</dimen>
+    <dimen name="dialog_width">229dp</dimen>
+    <dimen name="dialog_firstItemBtn_marginTop">8dp</dimen>
+    <dimen name="dialog_item_marginH">14dp</dimen>
+    <dimen name="dialog_item_marginV">5dp</dimen>
+    <dimen name="dialog_arrow_marginRight">20dp</dimen>
+    <dimen name="dialog_arrow_marginLeft">4dp</dimen>
+    <dimen name="dialog_radioBtn_dimen">28dp</dimen>
+
+    <!-- normal dialog -->
+    <dimen name="normal_dialog_width">229dp</dimen>
+    <dimen name="normal_dialog_message_marginTop">40dp</dimen>
+    <dimen name="normal_dialog_btn_width">96dp</dimen>
+    <dimen name="normal_dialog_btn_height">40dp</dimen>
+    <dimen name="normal_dialog_btn_marginLeft">12dp</dimen>
+    <dimen name="normal_dialog_btn_marginBottom">14dp</dimen>
+    <dimen name="normal_dialog_btn_marginTop">30dp</dimen>
+
+    <!-- pause ad Size -->
+    <dimen name="fullscreen_pause_ad_container_width">600dp</dimen>
+    <dimen name="fullscreen_pause_ad_container_height">500dp</dimen>
+    <dimen name="fullscreen_youku_pause_ad_width">390dp</dimen>
+    <dimen name="fullscreen_youku_pause_ad_height">280dp</dimen>
+    <dimen name="fullscreen_punchbox_pause_ad_width">405dp</dimen>
+    <dimen name="fullscreen_punchbox_pause_ad_height">270dp</dimen>
+    <dimen name="fullscreen_player_setting_width">373dp</dimen>
+    <dimen name="fullscreen_player_setting_height">250dp</dimen>
+    <dimen name="plugin_detail_play_pause_pandding">0dp</dimen>
+
+    <!-- Text Size -->
+
+    <dimen name="text_size_a">8sp</dimen>
+    <dimen name="text_size_b">10sp</dimen>
+    <dimen name="text_size_c">12sp</dimen>
+    <dimen name="text_size_d">14sp</dimen>
+    <dimen name="text_size_e">18sp</dimen>
+    <dimen name="text_size_f">22sp</dimen>
+    <dimen name="text_size_g">29sp</dimen>
+    <dimen name="text_size_h">32sp</dimen>
+    <dimen name="text_size_i">36sp</dimen>
+    <dimen name="text_size_l">20sp</dimen>
+    <dimen name="text_size_j">16sp</dimen>
+    <dimen name="text_size_1">9sp</dimen>
+    <dimen name="text_size_2">11sp</dimen>
+    <dimen name="text_size_3">12sp</dimen>
+    <dimen name="text_size_4">13sp</dimen>
+    <dimen name="text_size_5">14sp</dimen>
+    <dimen name="text_size_6">15sp</dimen>
+    <dimen name="text_size_7">18sp</dimen>
+    <dimen name="text_size_8">25sp</dimen>
+
+    <!-- 播放广告 -->
+    <dimen name="player_ad_head_padding">8dp</dimen>
+    <dimen name="player_ad_count_text_padding">6dp</dimen>
+    <dimen name="player_ad_more_height">30dp</dimen>
+    <dimen name="player_ad_more_padding">12dp</dimen>
+    <dimen name="player_ad_go_full_margin_bottom">12dp</dimen>
+    <dimen name="player_ad_go_full_margin_right">8dp</dimen>
+    <dimen name="player_ad_go_full_padding">5dp</dimen>
+    <dimen name="player_ad_more_height_youku">30dp</dimen>
+    <dimen name="player_ad_skip_width_youku">69.5dp</dimen>
+    <dimen name="player_ad_count_wrap_widht_youku">46dp</dimen>
+    <dimen name="player_ad_count_width_youku">23dp</dimen>
+    <dimen name="player_ad_count_text_padding_youku">4dp</dimen>
+    <dimen name="player_ad_count_text_size">18sp</dimen>
+
+    <!-- 播放广告 youku -->
+    <dimen name="player_ad_count_text_size_youku">14dp</dimen>
+    <dimen name="player_ad_text_height_youku">32dp</dimen>
+    <!-- <dimen name="player_ad_skip_width_youku">72dp</dimen> -->
+    <dimen name="player_ad_more_width_youku">80dp</dimen>
+    <dimen name="player_ad_go_full_width_youku">35dp</dimen>
+    <dimen name="player_ad_more_padding_youku">2dp</dimen>
+    <!-- youku dialog -->
+    <dimen name="yp_youku_dialog_width">251dp</dimen>
+    <dimen name="yp_youku_dialog_height">148dp</dimen>
+    <dimen name="yp_youku_dialog_bottom_height">43dp</dimen>
+    <dimen name="yp_youku_dialog_txt_cancel_textsize">15dp</dimen>
+    <dimen name="yp_edittext_add_txt_linespacingextra">3dp</dimen>
+    <dimen name="yp_normal_content_textsize">17dp</dimen>
+    <dimen name="yp_image_ad_close_margin_right">1dp</dimen>
+    <dimen name="paytip_full_width">191dp</dimen>
+    <dimen name="paytip_full_height">54dp</dimen>
+    <dimen name="paytip_close_width">37dp</dimen>
+    <dimen name="paytip_close_height">32dp</dimen>
+    <dimen name="paytip_close_margin">8dp</dimen>
+    <dimen name="paytip_full_tip_width">130dp</dimen>
+    <dimen name="paytip_full_arrow_width">26dp</dimen>
+    <dimen name="paytip_full_textsize">11dp</dimen>
+    <dimen name="paytip_small_textsize">12dp</dimen>
+    <dimen name="paytip_full_margin_bottom">86dp</dimen>
+    <dimen name="paytip_small_tip_width">48dp</dimen>
+    <dimen name="paytip_small_margin_bottom">48dp</dimen>
+
+    <!-- youku investigate ad -->
+    <dimen name="yp_investigate_height">33dp</dimen>
+    <dimen name="yp_investigate_close_width">37dp</dimen>
+    <dimen name="yp_investigate_text_container_width">56dp</dimen>
+    <dimen name="yp_investigate_text_margin_left">7dp</dimen>
+    <dimen name="yp_investigate_text_size">14dp</dimen>
+    <dimen name="yp_investigate_arrowright_width">26dp</dimen>
+    <dimen name="yp_investigate_margin_bottom">60dp</dimen>
+
+    <!-- tudou encrypt dialog -->
+    <dimen name="tudou_dialog_height">175dp</dimen>
+    <dimen name="tudou_dialog_width">300dp</dimen>
+
+    <dimen name="channel_main_tabindicator_height">40dp</dimen>
+    <dimen name="channeltab_txt_textsize">14dp</dimen>
+    <dimen name="channeltab_dividerpadding">10dp</dimen>
+
+    <dimen name="gridview_spacing">8dp</dimen>
+    <dimen name="gridview_pading_horizontal">5dp</dimen>
+    <dimen name="gridview_pading_top">8dp</dimen>
+
+    <dimen name="toolbar_btn_txt_textsize">12dp</dimen>
+
+    <dimen name="download_grid_item_add_height">47dp</dimen>
+    <dimen name="download_grid_item_image_padding_right">3dp</dimen>
+    <dimen name="gridview_item_tv_height">41dp</dimen>
+    <dimen name="myyouku_item_line_margin_left">6dp</dimen>
+    <dimen name="shadow_height">1dp</dimen>
+    <dimen name="homepage_item_title_first">14dp</dimen>
+    <dimen name="homepage_item_title_second">12dp</dimen>
+    <dimen name="history_text_point_margin_bottom">13dp</dimen>
+    <dimen name="history_item_txt_first_textsize">14dp</dimen>
+    <dimen name="history_item_txt_second_textsize">10dp</dimen>
+
+    <dimen name="subtitle_height">40dp</dimen>
+    <dimen name="subtitle_margin">8dp</dimen>
+
+    <!--login-->
+    <dimen name="dialog_activity_total_width">290dip</dimen>
+    <dimen name="dialog_activity_total_height">245dip</dimen>
+    <dimen name="dialog_activity_login_page_top_height">48dip</dimen>
+    <dimen name="dialog_activity_regist_item_top_margin_right_spacing">13dip</dimen>
+    <dimen name="dialog_activity_login_text_size">18dip</dimen>
+    <dimen name="dialog_activity_login_top_imageview_margin_right">10dip</dimen>
+    <dimen name="dialog_activity_login_input_editview_margin_top">18dip</dimen>
+    <dimen name="dialog_activity_login_input_editview_margin_left_right">16dip</dimen>
+    <dimen name="dialog_activity_login_input_editview_text_size">12dip</dimen>
+    <dimen name="dialog_activity_login_input_layout_height">38dip</dimen>
+    <dimen name="dialog_activity_login_input_editview_paddingleft">12dip</dimen>
+    <dimen name="dialog_activity_login_layout_regist_item_spacing">16dip</dimen>
+    <dimen name="dialog_activity_login_input_forget_pswd_text_size">11dip</dimen>
+    <dimen name="dialog_activity_regist_title_text_size">15dip</dimen>
+    <dimen name="dialog_activity_regist_top_left_item_width">86dip</dimen>
+    <dimen name="dialog_activity_regist_top_line_margin_top_bottom">15dip</dimen>
+    <dimen name="dialog_activity_login_regist_top_line_margin_right">16dip</dimen>
+    <dimen name="dialog_activity_regist_input_editview_margin_top">15dip</dimen>
+    <dimen name="dialog_activity_login_to_regist_more_margin_top">-7dip</dimen>
+    <dimen name="dialog_activity_login_top_imageview_width_height">40dip</dimen>
+    <dimen name="myyouku_card_title_img_height">25dp</dimen>
+    <dimen name="myyouku_card_title_img_width">46dp</dimen>
+    <dimen name="myyouku_setting_divider">0.5dp</dimen>
+    <dimen name="myyouku_top_margin_left">9dp</dimen>
+    <dimen name="myyouku_setting_text_margin_left">6dp</dimen>
+    <dimen name="myyouku_setting_bar_height">33dp</dimen>
+    <dimen name="myyouku_setting_list_text_margin_left">8dp</dimen>
+    <dimen name="myyouku_setting_list_item_height">39dp</dimen>
+    <dimen name="myyouku_setting_wifi_bar_height">39dp</dimen>
+    <dimen name="myyouku_setting_list_item_btn_margin_right">1dp</dimen>
+    <dimen name="myyouku_setting_lists_gap">10dp</dimen>
+
+    <dimen name="login_blue_line_Margin_top">40dp</dimen>
+    <dimen name="login_blue_line_Margin_top_login_first">57dp</dimen>
+    <dimen name="login_blue_line_Margin_top_register">66dp</dimen>
+    <dimen name="login_blue_line_Margin_right">39dp</dimen>
+    <dimen name="login_edit_min_width">140dp</dimen>
+    <dimen name="login_layout_Margin_right_left">34dp</dimen>
+    <dimen name="login_regist_btn_Margin_left">20dp</dimen>
+    <dimen name="login_regist_btn_width">120dp</dimen>
+    <dimen name="login_regist_btn_height">47dp</dimen>
+    <dimen name="login_login_btn_width">190dp</dimen>
+    <dimen name="login_login_btn_height">47dp</dimen>
+    <dimen name="login_registed_btn_height">47dp</dimen>
+    <dimen name="login_edit_magin_left">9dp</dimen>
+    <dimen name="login_tips_margin_top_register">3dp</dimen>
+    <dimen name="login_edit_magin_bottom">6dp</dimen>
+    <dimen name="login_edit_verification_code_magin_bottom">5dp</dimen>
+    <dimen name="login_btn_magin_top_register">15dp</dimen>
+    <dimen name="login_btn_magin_top_login">41dp</dimen>
+    <dimen name="regist_text_margin_top">20dp</dimen>
+    <dimen name="regist_reback_login_page_imageview_width">35dp</dimen>
+    <dimen name="regist_reback_login_page_imageview_heigth">50dp</dimen>
+    <dimen name="layout_regist_page_top_height">55dp</dimen>
+    <dimen name="layout_regist_item_spacing">16dp</dimen>
+    <dimen name="login_layout_margin_bottom">16dp</dimen>
+    <dimen name="login_top_layout_height">45dp</dimen>
+    <dimen name="login_regist_pswd_txt_text_size">12sp</dimen>
+    <dimen name="user_forget_password_view_margin_right">6dip</dimen>
+    <dimen name="layout_regist_item_top_margin_right_spacing">27dp</dimen>
+    <dimen name="login_top_layout_margin_top_bottom">20dp</dimen>
+    <dimen name="login_top_layout_margin_line_margin_right">55dip</dimen>
+    <dimen name="login_top_layout_regist_txt_margin_right">10dip</dimen>
+    <dimen name="login_bottom_saosao_imageview_height_width">150dip</dimen>
+    <dimen name="login_bottom_sns_icon_height_width">50dip</dimen>
+    <dimen name="login_bottom_sns_icon_center_line_height_width">36dip</dimen>
+    <dimen name="login_user_sns_text_size">15dip</dimen>
+    <dimen name="login_user_sns_below_text_size">11dip</dimen>
+    <dimen name="login_user_sns_saosao_text_margin_top">13dip</dimen>
+    <dimen name="login_user_sns_text_layout_padding_right_left">15dip</dimen>
+    <dimen name="login_user_sns_block_margin_top_left">3dip</dimen>
+    <dimen name="regist_top_right_layout_line_margin_right">-10dip</dimen>
+    <dimen name="regist_top_left_item_width">100dip</dimen>
+    <dimen name="login_regist_top_line_margin_right">8dip</dimen>
+
+    <dimen name="txt_myyouku_nickname_textsize">20dp</dimen>
+    <dimen name="myouku_reglog_layout_paddingleft">10dp</dimen>
+    <dimen name="actionbar_img_height">117px</dimen>
+    <dimen name="actionbar_vip_img_height">48px</dimen>
+    <dimen name="actionbar_img_height_half">58px</dimen>
+    <dimen name="actionbar_ico_height">97px</dimen>
+    <dimen name="actionbar_item_extra_width">220px</dimen>
+
+    <dimen name="dialog_activity_login_to_regist_more_width">10dip</dimen>
+    <dimen name="search_result_textsize">15sp</dimen>
+    <dimen name="webview_top_padding_left_right">5dip</dimen>
+    <dimen name="webview_top_margin_left_right">15dip</dimen>
+    <dimen name="webview_top_title_margin_left">10dip</dimen>
+    <dimen name="webview_top_title_layout_width">120dip</dimen>
+    <dimen name="channel_custom_title_txt_textsize">17dp</dimen>
+    <dimen name="activity_myyouku_paddingleft">7dp</dimen>
+    <dimen name="popup_menu_width">150dp</dimen>
+    <dimen name="popup_menu_textsize">15sp</dimen>
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+    <dimen name="homepage_title_height">36dp</dimen>
+    <dimen name="capture_notice_layout_margin_top">35dp</dimen>
+    <dimen name="homepage_item_spacing">8dp</dimen>
+    <dimen name="layout_soku_dialog_width">251dp</dimen>
+    <dimen name="layout_soku_dialog_height">202dp</dimen>
+    <dimen name="soku_dialog_txt_maginleftright">20dp</dimen>
+    <dimen name="soku_dialog_txt_linespacingextra">4dp</dimen>
+    <dimen name="layout_soku_dialog_bottom_height">43dp</dimen>
+    <dimen name="soku_dialog_txt_cancel_textsize">15dp</dimen>
+
+</resources>

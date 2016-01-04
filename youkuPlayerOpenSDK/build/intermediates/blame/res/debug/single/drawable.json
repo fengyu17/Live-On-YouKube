@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\yp_progressbarstyle.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\yp_progressbarstyle.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\other_person_gridview_item_selector.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\other_person_gridview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\webview_progressbar_style.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\webview_progressbar_style.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\yp_progressthumbstyle.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\yp_progressthumbstyle.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_activity_login_button_click.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\dialog_activity_login_button_click.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_homepage_title_textcolor.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\btn_homepage_title_textcolor.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\yp_progress_holo_light.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\yp_progress_holo_light.xml"
+    }
+]

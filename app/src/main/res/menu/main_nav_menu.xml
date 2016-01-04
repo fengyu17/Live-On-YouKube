@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_live"
+            android:icon="@mipmap/ic_tv_black_48dp"
+            android:title="@string/app_live" />
+        <item
+            android:id="@+id/nav_vod"
+            android:icon="@mipmap/ic_movie_creation_black_48dp"
+            android:title="@string/app_vod" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@mipmap/ic_grade_black_48dp"
+            android:title="@string/app_favorites" />
+    </group>
+    <item android:title="@string/app_general">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@mipmap/ic_help_black_48dp"
+                android:title="@string/app_help" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@mipmap/ic_info_black_48dp"
+                android:title="@string/app_about" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,77 @@
+{
+  "result": 200,
+  "discrible": "Successful!",
+  "time": "2009-10-23 09:03:13",
+  "content": [
+    {
+      "ChannelID": "01",
+      "ChannelName": "韩-KTV",
+      "ChannelNum": "01",
+      "ChannelSC": "01",
+      "Mediaaddr": "http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8"
+    },
+    {
+      "ChannelID": "02",
+      "ChannelName": "韩-电影",
+      "ChannelNum": "02",
+      "ChannelSC": "02",
+      "Mediaaddr": "http://123.108.164.71/etv2/phd723/playlist.m3u8"
+    },
+    {
+      "ChannelID": "03",
+      "ChannelName": "美视中文",
+      "ChannelNum": "03",
+      "ChannelSC": "03",
+      "Mediaaddr": "http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8#rtsp://media3.sinovision.net:1935/live/livestream"
+    },
+    {
+      "ChannelID": "04",
+      "ChannelName": "MARA-TV",
+      "ChannelNum": "04",
+      "ChannelSC": "04",
+      "Mediaaddr": "http://stream2.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/playlist.m3u8"
+    },
+    {
+      "ChannelID": "05",
+      "ChannelName": "德视TV",
+      "ChannelNum": "05",
+      "ChannelSC": "05",
+      "Mediaaddr": "http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8"
+    },
+    {
+      "ChannelID": "06",
+      "ChannelName": "卫视中文",
+      "ChannelNum": "06",
+      "ChannelSC": "06",
+      "Mediaaddr": "p2p://106.186.121.94:8258/5604fab4000952444e5debff5e3c48ff"
+    },
+    {
+      "ChannelID": "07",
+      "ChannelName": "JapanShopping",
+      "ChannelNum": "07",
+      "ChannelSC": "07",
+      "Mediaaddr": "http://stream1.shopch.jp/HLS/out1/prog_index.m3u8"
+    },
+    {
+      "ChannelID": "08",
+      "ChannelName": "Hollywood",
+      "ChannelNum": "08",
+      "ChannelSC": "08",
+      "Mediaaddr": "http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8"
+    },
+    {
+      "ChannelID": "09",
+      "ChannelName": "HBOHD电影",
+      "ChannelNum": "09",
+      "ChannelSC": "09",
+      "Mediaaddr": "p2p://106.186.121.94:8258/560782e8000515555841f6113bec796c"
+    },
+    {
+      "ChannelID": "10",
+      "ChannelName": "亚洲影院",
+      "ChannelNum": "10",
+      "ChannelSC": "10",
+      "Mediaaddr": "http://124.160.124.24/bd_yzyy/z.m3u8"
+    }
+  ]
+}

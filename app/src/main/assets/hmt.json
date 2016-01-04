@@ -1,0 +1,70 @@
+{
+  "result": 200,
+  "discrible": "Successful!",
+  "time": "2009-10-23 09:03:13",
+  "content": [
+    {
+      "ChannelID": "01",
+      "ChannelName": "香港卫视",
+      "ChannelNum": "01",
+      "ChannelSC": "01",
+      "Mediaaddr": "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+    },
+    {
+      "ChannelID": "02",
+      "ChannelName": "澳亚卫视",
+      "ChannelNum": "02",
+      "ChannelSC": "02",
+      "Mediaaddr": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8"
+    },
+    {
+      "ChannelID": "03",
+      "ChannelName": "华娱卫视",
+      "ChannelNum": "03",
+      "ChannelSC": "03",
+      "Mediaaddr": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8"
+    },
+    {
+      "ChannelID": "04",
+      "ChannelName": "凤凰中文",
+      "ChannelNum": "04",
+      "ChannelSC": "04",
+      "Mediaaddr": "http://zv.3gv.ifeng.com/zhongwen800k.m3u8"
+    },
+    {
+      "ChannelID": "05",
+      "ChannelName": "凤凰资讯",
+      "ChannelNum": "05",
+      "ChannelSC": "05",
+      "Mediaaddr": "http://zv.3gv.ifeng.com/zixun800k.m3u8"
+    },
+    {
+      "ChannelID": "06",
+      "ChannelName": "阳光卫视",
+      "ChannelNum": "06",
+      "ChannelSC": "06",
+      "Mediaaddr": "rtmp://www.isuntv.com/live/ts.stream"
+    },
+    {
+      "ChannelID": "07",
+      "ChannelName": "台视HD",
+      "ChannelNum": "07",
+      "ChannelSC": "07",
+      "Mediaaddr": "http://59.120.43.180:17822"
+    },
+    {
+      "ChannelID": "08",
+      "ChannelName": "台湾axn电影台",
+      "ChannelNum": "08",
+      "ChannelSC": "08",
+      "Mediaaddr": "rtsp://c.itvitv.com/axn"
+    },
+    {
+      "ChannelID": "09",
+      "ChannelName": "台湾电影台",
+      "ChannelNum": "09",
+      "ChannelSC": "09",
+      "Mediaaddr": "rtsp://c.itvitv.com/mov.sjkimdqrddswj"
+    }
+  ]
+}

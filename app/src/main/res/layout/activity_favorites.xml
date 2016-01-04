@@ -1,0 +1,36 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.geeya.wifitv.ui.activity.LiveActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/favorite_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/nav_header_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/favorite_toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@mipmap/live_appbar_bg"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/favorite_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:navigationIcon="?attr/homeAsUpIndicator"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/fragment_gridview" />
+</android.support.design.widget.CoordinatorLayout>

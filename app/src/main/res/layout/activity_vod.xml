@@ -1,0 +1,44 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/vod_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/vod_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_collapseMode="pin"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:navigationIcon="?attr/homeAsUpIndicator"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/vod_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabGravity="fill"
+            app:tabMode="fixed" />
+    </android.support.design.widget.AppBarLayout>
+
+    <FrameLayout
+        android:id="@+id/vod_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vod_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    </FrameLayout>
+</android.support.design.widget.CoordinatorLayout>

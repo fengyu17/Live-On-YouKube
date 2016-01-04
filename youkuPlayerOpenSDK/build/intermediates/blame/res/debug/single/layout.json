@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_youku_dialog_password_interact.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_youku_dialog_password_interact.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_player_view.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_player_view.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\activity_authorization_sns.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\activity_authorization_sns.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\popup_menu.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\popup_menu.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_plugin_detail_play_interact.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_plugin_detail_play_interact.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\webview_custom_title.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\webview_custom_title.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_login_regist_layout.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\card_view_login_regist_layout.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_detail_bottom_play_control.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_detail_bottom_play_control.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_login_or_regist_activity.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\card_view_login_or_regist_activity.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_playerview_plugin_detail_play_interact.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_playerview_plugin_detail_play_interact.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_player_ad_youku.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_player_ad_youku.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_view.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\custom_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_detail_play_title.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_detail_play_title.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\menu_list_item.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_regist_layout.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\card_view_regist_layout.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_tudou_encrypt_dialog.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_tudou_encrypt_dialog.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_detail_play_end_page.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_detail_play_end_page.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_detail_play_loading.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_detail_play_loading.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_detail_retry.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_detail_retry.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_detail_loading_info_page.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_detail_loading_info_page.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\yp_player_container.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\yp_player_container.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_login_ui_layout.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\layout\\card_view_login_ui_layout.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\aes.lua",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\raw\\aes.lua"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\mediaplayer_configuration.xml",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\raw\\mediaplayer_configuration.xml"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\beep.ogg",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
+    }
+]

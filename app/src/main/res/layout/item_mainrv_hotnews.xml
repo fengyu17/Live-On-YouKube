@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/item_maincv_hotnews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardCornerRadius="1dp"
+        app:cardElevation="15dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="0.5dp"
+            android:layout_marginRight="0.5dp"
+            android:layout_marginTop="0.5dp">
+
+            <FrameLayout
+                android:id="@+id/item_mainfl_content"
+                android:layout_width="match_parent"
+                android:layout_height="130dp">
+
+                <ImageView
+                    android:id="@+id/item_mainiv_thumbnail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    android:scaleType="centerCrop" />
+
+                <TextView
+                    android:id="@+id/item_maintv_viewcount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|left"
+                    android:drawableLeft="@mipmap/ic_play_circle_fill_white_24dp"
+                    android:gravity="center"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/item_maintv_upcount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|right"
+                    android:gravity="center"
+                    android:drawableLeft="@mipmap/ic_favorite_outline_white_24dp"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="14sp" />
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/item_maintv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/item_mainfl_content"
+                android:padding="3dp"
+                android:textColor="@color/colorBlack4"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

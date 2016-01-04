@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_ad_gosmall.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\plugin_ad_gosmall.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_over_replay.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_over_replay.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\register_icon_fork.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\register_icon_fork.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_shrink.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_shrink.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\yp_tudou_encrypt_input_box.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\yp_tudou_encrypt_input_box.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_over_next_episode.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_over_next_episode.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\popup_menu_bg.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\popup_menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_play.jpg",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\bg_play.jpg"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\volumn_front.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\volumn_front.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_play_big.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_play_big.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topbar_refresh_icon.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\topbar_refresh_icon.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\corner_blue.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\corner_blue.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_more2.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\btn_more2.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_pause_big_detail_down.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_pause_big_detail_down.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\volumn_bg.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\volumn_bg.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\soku_layout_bottom_cover.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\soku_layout_bottom_cover.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topbar_share_icon.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\topbar_share_icon.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_ad_gofull.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\plugin_ad_gofull.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading_frame4.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\loading_frame4.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\scan_text_dian.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\scan_text_dian.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\login_by_sign_alipay.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\login_by_sign_alipay.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\detail_card_series_return.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\detail_card_series_return.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\detail_play_btn_full_screen.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\detail_play_btn_full_screen.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_pause_big.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_pause_big.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\login_by_sign_qq.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\login_by_sign_qq.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\yp_detail_icon_schedule_ball.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\yp_detail_icon_schedule_ball.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading_frame1.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\loading_frame1.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\volumn_primary.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\volumn_primary.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_tudou_encrypt_dialog.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\bg_tudou_encrypt_dialog.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_play_big_detail.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_play_big_detail.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\login_by_sign_wechat.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\login_by_sign_wechat.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\player_canvas.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\player_canvas.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_indicator_divider.9.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\tab_indicator_divider.9.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_more.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\btn_more.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_pause_big_detail.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_pause_big_detail.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\play_btn_play_big_detail_down.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\play_btn_play_big_detail_down.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading_frame2.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\loading_frame2.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading_frame3.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\loading_frame3.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\login_by_sign_sina.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\login_by_sign_sina.png"
+    },
+    {
+        "merged": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topbar_close_icon.png",
+        "source": "E:\\YouKuMDProject\\LiveonYouKube\\youkuPlayerOpenSDK\\src\\main\\res\\drawable-hdpi\\topbar_close_icon.png"
+    }
+]

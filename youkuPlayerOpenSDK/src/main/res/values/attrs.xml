@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PlayerNewLoading">
+        <attr name="playerloadingSize" format="string" />
+    </declare-styleable>
+    <declare-styleable name="NewLoading">
+        <attr name="loadingSize" format="string" />
+    </declare-styleable>
+</resources>
